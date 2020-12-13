@@ -3,6 +3,14 @@
 
 Simple password generator
 
+You could create passwords using different types of symbols:
+- characters
+- numbers
+- special symbols (_, +, -, #, =, etc)
+- words
+- words modified with symbols
+- emojies
+
 <img src="./screen.gif" width="700"></img>
 
 # Installation
