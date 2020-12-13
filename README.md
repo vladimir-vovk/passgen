@@ -3,7 +3,7 @@
 
 Simple password generator
 
-<img src="./screen.gif" width="300"></img>
+<img src="./screen.gif" width="700"></img>
 
 # Installation
 
