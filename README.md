@@ -1,7 +1,7 @@
 🔑 passgen 🔒
 ============
 
-Simple password generator
+Simple command line utility for password generation.
 
 You could create passwords using different types of symbols:
 - characters
