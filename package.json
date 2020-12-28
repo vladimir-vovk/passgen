@@ -1,7 +1,7 @@
 {
   "name": "@vladimir-vovk/passgen",
   "description": "Simple password generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Vladimir Vovk",
   "bin": {
     "passgen": "bin/run"
@@ -42,7 +42,15 @@
   ],
   "homepage": "https://github.com/vladimir-vovk/passgen",
   "keywords": [
-    "oclif"
+    "password",
+    "generator",
+    "random",
+    "alphabet",
+    "numbers",
+    "symbols",
+    "words",
+    "emoji",
+    "cli"
   ],
   "license": "MIT",
   "main": "lib/index.js",
